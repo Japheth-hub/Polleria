@@ -1,0 +1,27 @@
+body {
+    background-color: yellow;
+    
+}
+.portada{
+    background-color: pink;
+    position: fixed;
+    color: blue;
+    font-family: "Pacifico";
+    font-size: 30px;
+    margin: -150px 50px 0px 50px;
+}
+.entrada {
+    text-align: center;
+    margin-top: 100px;
+}
+ul {
+    line-height: 40px;
+}
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    float: right;
+    
+    
+}
